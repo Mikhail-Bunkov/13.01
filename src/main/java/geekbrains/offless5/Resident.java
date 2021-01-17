@@ -39,6 +39,7 @@ public class Resident {
         }while (id/3 ==0 || id/11 ==0 || id/4 ==0);
     }
     public int getId(){
+
         return id;
     }
 }
